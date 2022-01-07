@@ -3,11 +3,6 @@
     "testSuiteName": "Sample1",
     "testCaseInfo": [
         {
-            "testcaseName": "segment.js",
-            "appName": "Sample",
-            "selectedDataset": "dataset"
-        },
-        {
             "testcaseName": "sample1.js",
             "appName": "Sample",
             "selectedDataset": "dataset"
